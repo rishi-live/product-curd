@@ -5,7 +5,7 @@ dbConnection();
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
-// https://speeding-sunset-543748.postman.co/documentation/10718680-fa0f5bdc-0b9d-4350-a3fa-16947c3456c4/publish?workspaceId=ebb1cca5-603b-40bf-a658-6d6ae1892b8d
+// https://documenter.getpostman.com/view/10718680/UUy67QLh
 app.use('/api/product', require('./Routes/productRoute'));
 
 const PORT =  3000;
