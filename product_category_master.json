@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "615de354280eaaa234c1c3c1"
+  },
+  "category_name": "Cloths",
+  "status": "active",
+  "createdAt": {
+    "$date": "2021-10-06T17:56:36.077Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-06T17:56:36.077Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615de363280eaaa234c1c3c3"
+  },
+  "category_name": "Mouse",
+  "status": "active",
+  "createdAt": {
+    "$date": "2021-10-06T17:56:51.530Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-06T17:56:51.530Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615de36d280eaaa234c1c3c5"
+  },
+  "category_name": "Laptops",
+  "status": "active",
+  "createdAt": {
+    "$date": "2021-10-06T17:57:01.921Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-06T18:21:53.752Z"
+  },
+  "__v": 0
+}]

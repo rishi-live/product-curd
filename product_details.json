@@ -1,0 +1,188 @@
+[{
+  "_id": {
+    "$oid": "615de392280eaaa234c1c3c9"
+  },
+  "product_name": "Razer",
+  "quantity": "11",
+  "price": 2999,
+  "category_id": {
+    "$oid": "615de363280eaaa234c1c3c3"
+  },
+  "createdAt": {
+    "$date": "2021-10-06T17:57:38.453Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-06T17:57:38.453Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615de3a4280eaaa234c1c3cc"
+  },
+  "product_name": "Logitech",
+  "quantity": "71",
+  "price": 2499,
+  "category_id": {
+    "$oid": "615de363280eaaa234c1c3c3"
+  },
+  "createdAt": {
+    "$date": "2021-10-06T17:57:56.316Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-06T17:57:56.316Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615de3b8280eaaa234c1c3cf"
+  },
+  "product_name": "SteelSeries",
+  "quantity": "21",
+  "price": 3599,
+  "category_id": {
+    "$oid": "615de363280eaaa234c1c3c3"
+  },
+  "createdAt": {
+    "$date": "2021-10-06T17:58:16.816Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-06T17:58:16.816Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615de3ce280eaaa234c1c3d2"
+  },
+  "product_name": "BenQ",
+  "quantity": "7",
+  "price": 5999,
+  "category_id": {
+    "$oid": "615de363280eaaa234c1c3c3"
+  },
+  "createdAt": {
+    "$date": "2021-10-06T17:58:38.086Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-06T17:58:38.086Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615de40a280eaaa234c1c3d5"
+  },
+  "product_name": "Product 1",
+  "quantity": "10",
+  "price": 25000,
+  "category_id": {
+    "$oid": "615de354280eaaa234c1c3c1"
+  },
+  "createdAt": {
+    "$date": "2021-10-06T17:59:38.545Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-06T17:59:38.545Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615de419280eaaa234c1c3d8"
+  },
+  "product_name": "Product 2",
+  "quantity": "1",
+  "price": 2000,
+  "category_id": {
+    "$oid": "615de354280eaaa234c1c3c1"
+  },
+  "createdAt": {
+    "$date": "2021-10-06T17:59:53.988Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-06T17:59:53.988Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615de423280eaaa234c1c3db"
+  },
+  "product_name": "Product 3",
+  "quantity": "91",
+  "price": 9000,
+  "category_id": {
+    "$oid": "615de354280eaaa234c1c3c1"
+  },
+  "createdAt": {
+    "$date": "2021-10-06T18:00:03.198Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-06T18:00:03.198Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615de44b280eaaa234c1c3de"
+  },
+  "product_name": "HP",
+  "quantity": "45",
+  "price": 59999,
+  "category_id": {
+    "$oid": "615de36d280eaaa234c1c3c5"
+  },
+  "createdAt": {
+    "$date": "2021-10-06T18:00:43.324Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-06T18:00:43.324Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615de45c280eaaa234c1c3e1"
+  },
+  "product_name": "Lenovo",
+  "quantity": "75",
+  "price": 69999,
+  "category_id": {
+    "$oid": "615de36d280eaaa234c1c3c5"
+  },
+  "createdAt": {
+    "$date": "2021-10-06T18:01:00.829Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-06T18:01:00.829Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615de467280eaaa234c1c3e4"
+  },
+  "product_name": "Acer",
+  "quantity": "11",
+  "price": 49999,
+  "category_id": {
+    "$oid": "615de36d280eaaa234c1c3c5"
+  },
+  "createdAt": {
+    "$date": "2021-10-06T18:01:11.530Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-06T18:01:11.530Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615de478280eaaa234c1c3e7"
+  },
+  "product_name": "Asus",
+  "quantity": "41",
+  "price": 45999,
+  "category_id": {
+    "$oid": "615de36d280eaaa234c1c3c5"
+  },
+  "createdAt": {
+    "$date": "2021-10-06T18:01:28.859Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-06T18:01:28.859Z"
+  },
+  "__v": 0
+}]
